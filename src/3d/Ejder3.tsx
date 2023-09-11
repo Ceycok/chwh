@@ -4,7 +4,6 @@ Command: npx gltfjsx@6.2.13 ejder3.glb -t -s -p 4
 */
 
 import * as THREE from "three";
-import React, { useRef } from "react";
 import { useGLTF } from "@react-three/drei";
 import { GLTF } from "three-stdlib";
 import ejder from "./ejder3.glb";
